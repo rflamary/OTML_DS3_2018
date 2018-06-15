@@ -8,7 +8,7 @@ The course has been prepared by [Marco Cuturi](http://marcocuturi.net/),
 
 ### Course
 
-The slides of the Cours by Marco Cuturi will be downloadable [here]().
+The slides of the Cours by Marco Cuturi will be downloadable [here](#).
 
 
 More information can be found in the [Coimputational Optimal Transport](https://arxiv.org/pdf/1803.00567.pdf) book.
@@ -16,7 +16,7 @@ More information can be found in the [Coimputational Optimal Transport](https://
 
 ### Practical Sessions
 
-You can download the introductory slides to the practical session [here]().
+You can download the introductory slides to the practical session [here](#).
 
 
 #### Install Python and POT Toolbox
@@ -41,8 +41,8 @@ The zip file contains the following session:
 0. [Introduction to OT with POT](0_Intro_OT.ipynb)
 1. [Domain adaptation on digits with OT](1_DomainAdaptation.ipynb)
 2. [Color Grading with OT](2_ColorGrading.ipynb)
-3. [Wasserstein GAN in 2D]()
-4. [Word Mover's Distance on text]()
+3. [Wasserstein GAN in 2D](#)
+4. [Word Mover's Distance on text](#)
 
 You can choose to do the practical session using the notebooks included or the python script. We recommend Notebooks for beginners. 
 
