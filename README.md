@@ -11,7 +11,7 @@ The course has been prepared by [Marco Cuturi](http://marcocuturi.net/),
 The slides of the Cours by Marco Cuturi will be downloadable [here](#).
 
 
-More information can be found in the [Coimputational Optimal Transport](https://arxiv.org/pdf/1803.00567.pdf) book.
+More information can be found in the [Computational Optimal Transport](https://arxiv.org/pdf/1803.00567.pdf) book.
 
 
 ### Practical Sessions
