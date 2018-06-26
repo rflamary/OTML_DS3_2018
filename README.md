@@ -8,7 +8,7 @@ The course has been prepared by [Marco Cuturi](http://marcocuturi.net/),
 
 ### Course
 
-The slides of the Cours by Marco Cuturi will be downloadable [here](#).
+The slides of the Cours by Marco Cuturi can be downloadable [here](https://www.dropbox.com/s/3kuqnhmf2q0dzjq/mlss18_argentina.pdf?dl=0).
 
 
 More information can be found in the [Computational Optimal Transport](https://arxiv.org/pdf/1803.00567.pdf) book.
