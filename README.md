@@ -32,6 +32,12 @@ conda install -c conda-forge pot
 
 which will install the POT OT Toolbox automatically. Note that in Window you need to launch the anaconda terminal with admnistrator mode to install with conda.
 
+The optional practical session 3 also requires the use of the Keras toolbox that can be installed similarly with:
+
+```
+conda install -c conda-forge keras 
+```
+
 #### Download the Notebooks for the session
 
 You can download all the necessary files here: [OTML_DS3_2018.zip](https://github.com/rflamary/OTML_DS3_2018/archive/master.zip)
@@ -41,8 +47,8 @@ The zip file contains the following session:
 0. [Introduction to OT with POT](0_Intro_OT.ipynb)
 1. [Domain adaptation on digits with OT](1_DomainAdaptation.ipynb)
 2. [Color Grading with OT](2_ColorGrading.ipynb)
-3. [Wasserstein GAN in 2D](#)
-4. [Word Mover's Distance on text](#)
+3. [Wasserstein GAN in 2D](3_WGAN.ipynb) (requires keras)
+4. [Word Mover's Distance on text](4_WMD.ipynb)
 
 You can choose to do the practical session using the notebooks included or the python script. We recommend Notebooks for beginners. 
 
