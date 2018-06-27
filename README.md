@@ -16,7 +16,7 @@ More information can be found in the [Computational Optimal Transport](https://a
 
 ### Practical Sessions
 
-You can download the introductory slides to the practical session [here](#).
+You can download the introductory slides to the practical session [here](https://remi.flamary.com/cours/otml/OTML_TPDS3_2018.pdf).
 
 
 #### Install Python and POT Toolbox
